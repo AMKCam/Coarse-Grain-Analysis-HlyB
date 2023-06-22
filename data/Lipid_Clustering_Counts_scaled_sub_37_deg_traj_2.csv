@@ -1,0 +1,13 @@
+Domain,Lipid,Median_Count,Scaled_Median_Count
+Transmembrane Top,CDL2,18.5,4.6
+Transmembrane Top,POPE,65.0,16.2
+Transmembrane Top,POPG,28.0,7.0
+CLD,CDL2,15.0,3.0
+CLD,POPE,71.0,14.2
+CLD,POPG,33.0,6.6
+Transmembrane Arm,CDL2,8.0,4.0
+Transmembrane Arm,POPE,44.0,22.0
+Transmembrane Arm,POPG,16.0,8.0
+Substrate Entrance Channel,CDL2,8.0,1.6
+Substrate Entrance Channel,POPE,63.0,12.6
+Substrate Entrance Channel,POPG,30.0,6.0
